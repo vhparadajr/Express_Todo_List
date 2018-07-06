@@ -20,7 +20,6 @@ A Todo List thats linked to a database.
 
 
 ## Optimizations
-*(optional)*
 
 When time permitting, I would like to add CSS and practice my UX design to make a more appealing/functional app. 
 
