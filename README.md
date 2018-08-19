@@ -9,7 +9,7 @@
 2. Navigate to `localhost:8000`
 
 # Todo List API
-A Todo List thats linked to a database. 
+A Todo List with a database. 
 
 
 ![alt tag](https://i.imgur.com/V9s70R4.png)
